@@ -1,4 +1,4 @@
-defmodule Card do
+defmodule Poker.Card do
   @card_ranks ["2", "3", "4", "5", "6", "7", "8", "9", "T", "J", "Q", "K", "A"]
   @card_suits ["C", "S", "D", "H"]
 
